@@ -33,6 +33,27 @@ Analyze YouTube trending history to support advertising video planning decisions
 - U.S. category distribution differs from several non-U.S. regions, confirming the need for localized advertising strategies.
 - The combination of absolute and percentage trend views helps distinguish high-volume categories from high-share categories.
 
+## Screenshots
+![Dashboard Preview](https://public.tableau.com/static/images/Da/DashboarddetendenciasAnuar/Dashboard1/1.png)
+
+If the preview image does not render in your browser, use the live dashboard link above.
+
+## How to Use
+1. Open the `Live Dashboard` link.
+2. Set the global date/time filter to the period you want to analyze.
+3. Use the country filter to compare one region against others.
+4. Read `Historical trends` for absolute volumes and `Historical trends, %` for category share.
+5. Use the country distribution chart and category-country table to identify localization opportunities.
+
+## Resume Bullet Version
+**YouTube Trending Dashboard (Tableau Public)** | **TripleTen Data Analyst Bootcamp (2026)**
+
+- Designed and published an interactive Tableau Public dashboard to analyze historical YouTube trending behavior by date, category, and region, resulting in a repeatable daily monitoring workflow for marketing planning.
+- Built absolute and percentage trend views plus country-level distribution analysis, resulting in clear comparisons of U.S. category performance versus other regions through global date/time and country filters.
+- Standardized insight delivery for non-technical stakeholders, reducing manual weekly reporting effort and improving consistency in trend interpretation.
+
+**Technological skills used:** Tableau Public, Data Visualization, SQL, Exploratory Data Analysis (EDA), Git/GitHub
+
 ## Tools
 - Tableau Public
 - SQL (data preparation context)
