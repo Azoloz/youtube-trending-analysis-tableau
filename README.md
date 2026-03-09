@@ -54,6 +54,15 @@ If the preview image does not render in your browser, use the live dashboard lin
 
 **Technological skills used:** Tableau Public, Data Visualization, SQL, Exploratory Data Analysis (EDA), Git/GitHub
 
+## Resume Bullet Version - ES
+**YouTube Trending Dashboard (Tableau Public)** | **TripleTen Data Analyst Bootcamp (2026)**
+
+- Disene y publique un dashboard interactivo en Tableau Public para analizar tendencias historicas de YouTube por fecha, categoria y region, lo que resulto en un flujo de monitoreo diario replicable para planeacion de marketing.
+- Construi vistas de tendencias absolutas y porcentuales, junto con analisis por pais, lo que permitio comparar claramente el desempeno de categorias en EE. UU. frente a otras regiones mediante filtros globales de fecha/hora y pais.
+- Estandarice la entrega de insights para stakeholders no tecnicos, reduciendo el esfuerzo manual semanal de reporte y mejorando la consistencia del analisis.
+
+**Habilidades tecnologicas utilizadas:** Tableau Public, Visualizacion de Datos, SQL, Analisis Exploratorio de Datos (EDA), Git/GitHub
+
 ## Tools
 - Tableau Public
 - SQL (data preparation context)
