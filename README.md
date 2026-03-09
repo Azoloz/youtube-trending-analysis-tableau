@@ -2,6 +2,9 @@
 
 Interactive Tableau Public project to analyze historical YouTube trending videos by date, category, and region.
 
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/anuar.orlando.valdez.perez/viz/DashboarddetendenciasAnuar/Dashboard1)
+
 ## Project Objective
 Analyze YouTube trending history to support advertising video planning decisions.
 
@@ -24,6 +27,11 @@ Analyze YouTube trending history to support advertising video planning decisions
 - Which video categories trended most frequently?
 - How were trending videos distributed across regions?
 - Which categories were especially popular in the United States, and how did they differ from other regions?
+
+## Key Findings
+- Trending behavior is not homogeneous across regions; category popularity varies significantly by country.
+- U.S. category distribution differs from several non-U.S. regions, confirming the need for localized advertising strategies.
+- The combination of absolute and percentage trend views helps distinguish high-volume categories from high-share categories.
 
 ## Tools
 - Tableau Public
