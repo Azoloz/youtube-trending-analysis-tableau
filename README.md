@@ -2,11 +2,11 @@
 
 Interactive Tableau Public project to analyze historical YouTube trending videos by date, category, and region.
 
-## Live Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/anuar.orlando.valdez.perez/viz/DashboarddetendenciasAnuar/Dashboard1)
-
 ## Project Objective
 Analyze YouTube trending history to support advertising video planning decisions.
+
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/anuar.orlando.valdez.perez/viz/DashboarddetendenciasAnuar/Dashboard1)
 
 ## Dataset
 - `trending_by_time.csv`
@@ -17,7 +17,7 @@ Analyze YouTube trending history to support advertising video planning decisions
   - `category_title`: video category
   - `videos_count`: number of trending videos
 
-## Dashboard Scope
+## Analysis Scope
 - Historical trends by day and category (absolute values)
 - Historical trends by day and category (percentage share)
 - Event distribution by country/region
